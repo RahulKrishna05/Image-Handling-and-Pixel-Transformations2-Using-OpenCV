@@ -1,4 +1,4 @@
-<img width="431" height="410" alt="48144389-3d82-49d2-a77e-3eebec1dbe14" src="https://github.com/user-attachments/assets/db2c772c-c9a0-45ac-b273-57a73ff69d3c" /># Image-Handling-and-Pixel-Transformations-Using-OpenCV 
+# Image-Handling-and-Pixel-Transformations-Using-OpenCV 
 
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
